@@ -1,0 +1,8 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://aloliixe.github.io/Aau/sitemap_index.txt.gz
+Sitemap: https://aloliixe.github.io/IEu/sitemap_index.txt.gz
+Sitemap: https://aloliixe.github.io/Jnf/sitemap_index.txt.gz
+Sitemap: https://aloliixe.github.io/kJX/sitemap_index.txt.gz
+Sitemap: https://aloliixe.github.io/qIZ/sitemap_index.txt.gz
